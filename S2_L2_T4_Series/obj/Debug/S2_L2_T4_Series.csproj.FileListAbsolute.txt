@@ -1,0 +1,7 @@
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_T4_Series\bin\Debug\S2_L2_T4_Series.exe.config
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_T4_Series\bin\Debug\S2_L2_T4_Series.exe
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_T4_Series\bin\Debug\S2_L2_T4_Series.pdb
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_T4_Series\obj\Debug\S2_L2_T4_Series.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_T4_Series\obj\Debug\S2_L2_T4_Series.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_T4_Series\obj\Debug\S2_L2_T4_Series.exe
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_T4_Series\obj\Debug\S2_L2_T4_Series.pdb

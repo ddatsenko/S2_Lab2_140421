@@ -1,0 +1,7 @@
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2__T1_Sharpwasher\bin\Debug\S2_L2__T1_Sharpwasher.exe.config
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2__T1_Sharpwasher\bin\Debug\S2_L2__T1_Sharpwasher.exe
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2__T1_Sharpwasher\bin\Debug\S2_L2__T1_Sharpwasher.pdb
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2__T1_Sharpwasher\obj\Debug\S2_L2__T1_Sharpwasher.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2__T1_Sharpwasher\obj\Debug\S2_L2__T1_Sharpwasher.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2__T1_Sharpwasher\obj\Debug\S2_L2__T1_Sharpwasher.exe
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2__T1_Sharpwasher\obj\Debug\S2_L2__T1_Sharpwasher.pdb

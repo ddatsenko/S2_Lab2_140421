@@ -1,0 +1,7 @@
+C:\Users\Денис\source\repos\S2_L2_T2_Timer\bin\Debug\S2_L2_T2_Timer.exe.config
+C:\Users\Денис\source\repos\S2_L2_T2_Timer\bin\Debug\S2_L2_T2_Timer.exe
+C:\Users\Денис\source\repos\S2_L2_T2_Timer\bin\Debug\S2_L2_T2_Timer.pdb
+C:\Users\Денис\source\repos\S2_L2_T2_Timer\obj\Debug\S2_L2_T2_Timer.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\S2_L2_T2_Timer\obj\Debug\S2_L2_T2_Timer.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\S2_L2_T2_Timer\obj\Debug\S2_L2_T2_Timer.exe
+C:\Users\Денис\source\repos\S2_L2_T2_Timer\obj\Debug\S2_L2_T2_Timer.pdb

@@ -1,0 +1,7 @@
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_Task3_Divisible\bin\Debug\S2_L2_Task3_Divisible.exe.config
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_Task3_Divisible\bin\Debug\S2_L2_Task3_Divisible.exe
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_Task3_Divisible\bin\Debug\S2_L2_Task3_Divisible.pdb
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_Task3_Divisible\obj\Debug\S2_L2_Task3_Divisible.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_Task3_Divisible\obj\Debug\S2_L2_Task3_Divisible.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_Task3_Divisible\obj\Debug\S2_L2_Task3_Divisible.exe
+C:\Users\Денис\Desktop\Uni\ООП\S2_L2_Task3_Divisible\obj\Debug\S2_L2_Task3_Divisible.pdb
